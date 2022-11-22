@@ -16,7 +16,7 @@ class Markdown {
   // TODO: Create a function that returns the license link
   // // If there is no license, return an empty string
   static renderLicenseLink(license) {
-    const licenseLinks = {
+    const licenseLinks = { 
       MIT: '[MIT](https://opensource.org/licenses/MIT)',
       GPLv2: '[GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)',
       GPLv3: '[GPLv3](https://www.gnu.org/licenses/gpl-3.0)',
