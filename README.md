@@ -1,44 +1,51 @@
-# tyuierty  
+# README_Generator  
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Content
-  -[Project Description](#description)
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contributing](#Contributing)
-  -[Tests](#Tests)
-  -[Questions](#Questions)
+  -[Project Description](#description)  
+
+  -[Installation](#Installation)  
+
+  -[Usage](#Usage)  
+
+  -[License](#License)  
+
+  -[Contributing](#Contributing)  
+
+  -[Tests](#Tests)  
+
+  -[Questions](#Questions)  
+
 
   ## Description 
 
-  ghdfng  
+  This project allows the user to generate a basic readme template   
 
   ## Installation  
 
-  drftguhjrteyj
+  no  idea
 
   ## Usage  
 
-  sfghrfgh 
+  use it freely 
 
   ## License  
 
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-  [MIT](https://opensource.org/licenses/MIT)
+  
 
   ## Contributing          
 
-  fghdfgh
+  make itbetter if you want
 
   ## Tests   
 
-  sfghnsfgh  
+  node   
 
   ## Questions  
 
   If there are any additiopnal questions or inquirires you can contact me through GitHub or Email.      
   GitHub Username: undefined,      
-  Email: fhrtgyjtyu       
+  Email: Andrew.lab14@gmail.com       
   

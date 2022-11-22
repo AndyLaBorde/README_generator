@@ -1,7 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 //['MIT', 'GPLv2', 'Apache', 'GPLv3', 'IBM']
-const { writeFile } = require('fs').promises;
+// const { writeFile } = require('fs').promises;
 class Markdown {
   static renderLicenseBadge(license) {
       const badges = {
@@ -21,7 +21,7 @@ class Markdown {
       GPLv2: '[GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)',
       GPLv3: '[GPLv3](https://www.gnu.org/licenses/gpl-3.0)',
       Apache: '[Apache](https://opensource.org/licenses/Apache-2.0)',
-      IBM: '[IBM]https://opensource.org/licenses/IPL-1.0)',
+      IBM: '[IBM](https://opensource.org/licenses/IPL-1.0)',
     }
     return licenseLinks[license];
   }
@@ -44,13 +44,20 @@ class Markdown {
   ${this.renderLicenseBadge(data.license)}
 
   ## Table of Content
-  -[Project Description](#description)
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contributing](#Contributing)
-  -[Tests](#Tests)
-  -[Questions](#Questions)
+  -[Project Description](#description)  
+
+  -[Installation](#Installation)  
+
+  -[Usage](#Usage)  
+
+  -[License](#License)  
+
+  -[Contributing](#Contributing)  
+
+  -[Tests](#Tests)  
+
+  -[Questions](#Questions)  
+
 
   ## Description 
 
@@ -67,7 +74,7 @@ class Markdown {
   ## License  
 
   ${this.renderLicenseSection(data.license)}
-  ${this.renderLicenseLink(data.license)}
+  
 
   ## Contributing          
 
