@@ -20,15 +20,15 @@
 
   ## Description 
 
-  This app allows the user to generate a basic readme for any project  
+  This app allows the developer to generate a readme for any project through the command line  
 
   ## Installation  
 
-  npm i inquirer@8.2.4
+  n/a
 
   ## Usage  
 
-  undefined 
+  n/a 
 
   ## License  
 
@@ -38,7 +38,7 @@
 
   Preview of Application:
 
-  // Under Construction //
+  https://drive.google.com/file/d/1glBudu0CYGdYy6KzCxrdpDHbq_aV1ny0/view
 
   Link to Repository:
 
@@ -50,7 +50,7 @@
 
   ## Tests   
 
-  "node index.js"  
+  n/a  
 
   ## Questions  
 
