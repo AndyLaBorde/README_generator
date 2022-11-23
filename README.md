@@ -20,7 +20,7 @@
 
   ## Description 
 
-  This app allows the developer to generate a readme for any project through the command line  
+  This app allows the developer to generate a readmy for any project.  
 
   ## Installation  
 
@@ -38,7 +38,7 @@
 
   Preview of Application:
 
-  https://drive.google.com/file/d/1glBudu0CYGdYy6KzCxrdpDHbq_aV1ny0/view
+  https://watch.screencastify.com/v/wVZOM39eNooqgurRaLlb
 
   Link to Repository:
 
