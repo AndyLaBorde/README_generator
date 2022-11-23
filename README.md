@@ -5,47 +5,56 @@
   ## Table of Content
   -[Project Description](#description)  
 
-  -[Installation](#Installation)  
+  -[Installation](#installation)  
 
-  -[Usage](#Usage)  
+  -[Usage](#usage)  
 
-  -[License](#License)  
+  -[License](#license)  
 
-  -[Contributing](#Contributing)  
+  -[Contributing](#contributing)  
 
-  -[Tests](#Tests)  
+  -[Tests](#tests)  
 
-  -[Questions](#Questions)  
+  
 
 
   ## Description 
 
-  This project allows the user to generate a basic readme template   
+  This app allows the user to generate a basic readme for any project  
 
   ## Installation  
 
-  no  idea
+  npm i inquirer@8.2.4
 
   ## Usage  
 
-  use it freely 
+  undefined 
 
   ## License  
 
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
   
+  ## Links
+
+  Preview of Application:
+
+  // Under Construction //
+
+  Link to Repository:
+
+  https://github.com/AndyLaBorde/README_generator
 
   ## Contributing          
 
-  make itbetter if you want
+  n/a
 
   ## Tests   
 
-  node   
+  "node index.js"  
 
   ## Questions  
 
   If there are any additiopnal questions or inquirires you can contact me through GitHub or Email.      
-  GitHub Username: undefined,      
+  GitHub: https://github.com/AndyLaBorde,      
   Email: Andrew.lab14@gmail.com       
   

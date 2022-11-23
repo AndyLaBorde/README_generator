@@ -9,7 +9,7 @@ const promptUser = () => {
         {
             type: "input",
             message: "What is your Github username",
-            name: "username",
+            name: "userName",
         },
         {
             type: "input",
@@ -24,7 +24,7 @@ const promptUser = () => {
         {
             type: "description",
             message: "Please write a short description of your project",
-            name: "projectDescription",
+            name: "description",
         },
         {
             type: "checkbox",
@@ -40,12 +40,12 @@ const promptUser = () => {
         {
             type: "input",
             message: "What command should be run to run tests?",
-            name: "test",
+            name: "tests",
         },
         {
             type: "input",
             message: "What does the user need to know about using the repo?",
-            name: "userInfo",
+            name: "usage",
         },
         {
             type: "input",

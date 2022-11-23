@@ -46,22 +46,22 @@ class Markdown {
   ## Table of Content
   -[Project Description](#description)  
 
-  -[Installation](#Installation)  
+  -[Installation](#installation)  
 
-  -[Usage](#Usage)  
+  -[Usage](#usage)  
 
-  -[License](#License)  
+  -[License](#license)  
 
-  -[Contributing](#Contributing)  
+  -[Contributing](#contributing)  
 
-  -[Tests](#Tests)  
+  -[Tests](#tests)  
 
-  -[Questions](#Questions)  
+  
 
 
   ## Description 
 
-  ${data.projectDescription}  
+  ${data.description}  
 
   ## Installation  
 
@@ -75,6 +75,15 @@ class Markdown {
 
   ${this.renderLicenseSection(data.license)}
   
+  ## Links
+
+  Preview of Application:
+
+  https://drive.google.com/file/d/1glBudu0CYGdYy6KzCxrdpDHbq_aV1ny0/view
+
+  Link to Repository:
+
+  https://github.com/AndyLaBorde/README_generator
 
   ## Contributing          
 
@@ -82,12 +91,12 @@ class Markdown {
 
   ## Tests   
 
-  ${data.test}  
+  ${data.tests}  
 
   ## Questions  
 
   If there are any additiopnal questions or inquirires you can contact me through GitHub or Email.      
-  GitHub Username: ${data.userName},      
+  GitHub: https://github.com/${data.userName},      
   Email: ${data.emailAddress}       
   `;
   }
